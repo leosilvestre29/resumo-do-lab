@@ -14,3 +14,7 @@ Níveis de gestão: <br>
 IaaS 👉 Alto <br> 
 PaaS 👉 Médio <br> 
 SaaS 👉 Baixo
+
+<h3>Lab 4 Construindo arquiteturas no Azure</h3> Nessa lab foi mostrado como criar um Grupo de Recursos e as opções de personalização. <br>
+Foi mostrado também como criar uma Rede Virtual (VNET) <br>
+Além das criações do Grupo de Recursos e da VNET, foi mostrado também a estrura física Microsofr Datacenters, e um site onde é possivel visualizar onde tem Datacenters da Microsoft por todo o mundo.
